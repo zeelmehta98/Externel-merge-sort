@@ -3,6 +3,7 @@ External Merge sort is an algorithm that is used to sort data that does not fit 
 This code is completely written in python.
 
 Note:
+
     1. Please modify the value of "path_of_folder" variable to the folder where code output is expected.
   
     2. To change number of records in database change value of global variable "dataset_size". 
