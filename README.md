@@ -2,6 +2,8 @@
 External Merge sort is an algorithm that is used to sort data that does not fit in main memory(RAM) and instead, it must reside in the slower external memory.
 This code is completely written in python.
 
+Dataset will be generated randomnly by the code and will be stored in 'OriginalDataset.txt'
+
 Note:
 
     1. Please modify the value of "path_of_folder" variable to the folder where code output is expected.
@@ -12,4 +14,4 @@ Note:
 
     4. All .txt files are deleted from execution folder when code runs initially everytime.
 
-    5. Final output of the code will be stored in ExternallySortedDataset.txt file.
+    5. Final output of the code will be stored in 'ExternallySortedDataset.txt' file.
